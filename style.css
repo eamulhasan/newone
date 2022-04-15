@@ -1,0 +1,265 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-size: 16px;
+    font-family: sans-serif;
+    outline: 0;
+    font-weight: 400;
+
+}
+a{
+    text-decoration: none;
+}
+img{
+    vertical-align: middle;
+}
+ul,ol{
+    list-style: none;
+}
+/*Common css end*/
+
+.first{
+    background-color: red;
+    width: 500px;
+    height: 500px;
+    margin: 0 auto;
+}
+.b1{
+    background-color: rgb(13, 13, 236);
+    width: 500px;
+    height: 250px;
+}
+.b3{
+    background-color: aqua;
+    width: 250px;
+    height: 250px;
+    float: left;
+}
+.b7{
+    background-color: rgb(254, 154, 3);
+    height: 50px;
+    width: 250px;
+}
+.b8{
+    background-color: rgb(198, 0, 243);
+    height: 50px;
+    width: 250px;
+}
+.b9{
+    background-color: rgb(255, 0, 8);
+    height: 50px;
+    width: 250px;
+}
+
+.b27{
+    background-color: rgb(255, 140, 0);
+    height: 50px;
+    width: 50px;
+    float: left;
+}
+.b28{
+    background-color: rgb(0, 255, 64);
+    height: 50px;
+    width: 50px;
+    float: left;
+}
+
+.b29{
+    background-color: rgb(247, 0, 255);
+    height: 50px;
+    width: 50px;
+    float: left;
+}
+.b30{
+    background-color: rgb(255, 0, 0);
+    height: 50px;
+    width: 50px;
+    float: left;
+}
+.b31{
+    background-color: rgb(255, 136, 0);
+    height: 50px;
+    width: 50px;
+    float: left;
+}
+
+.b10{
+    background-color: rgb(140, 255, 0);
+    height: 50px;
+    width: 250px;
+}
+.b11{
+    background-color: rgb(253, 4, 4);
+    height: 50px;
+    width: 250px;
+}
+.b4{
+    background-color: rgb(255, 0, 242);
+    width: 250px;
+    height: 250px;
+    float: left;
+}
+.b12{
+    background-color: blue;
+    height: 250px;
+    width: 50px;
+    float: left;
+}
+.b13{
+    background-color: rgb(0, 238, 255);
+    height: 250px;
+    width: 50px;
+    float: left;
+}
+.b14{
+    background-color: rgb(255, 251, 0);
+    height: 250px;
+    width: 50px;
+    float: left;
+}
+.b15{
+    background-color: rgb(4, 255, 0);
+    height: 250px;
+    width: 50px;
+    float: left;
+}
+.b16{
+    background-color: rgb(255, 119, 0);
+    height: 250px;
+    width: 50px;
+    float: left;
+}
+.b2{
+    background-color: rgb(87, 236, 13);
+    width: 500px;
+    height: 250px;
+}
+.b5{
+    background-color: rgb(208, 255, 0);
+    width: 250px;
+    height: 250px;
+    float: left;
+}
+.b17{
+    background-color: rgb(0, 255, 38);
+    width: 50px;
+    height: 250px;
+    float: left;
+}
+.b18{
+    background-color: rgb(0, 119, 255);
+    width: 50px;
+    height: 250px;
+    float: left;
+}
+.b19{
+    background-color: rgb(0, 242, 255);
+    width: 50px;
+    height: 250px;
+    float: left;
+}
+.b20{
+    background-color: rgb(255, 0, 128);
+    width: 50px;
+    height: 250px;
+    float: left;
+}
+.b21{
+    background-color: rgb(21, 0, 255);
+    width: 50px;
+    height: 250px;
+    float: left;
+}
+
+.b6{
+    background-color: rgb(0, 204, 255);
+    width: 250px;
+    height: 250px;
+    float: left;
+}
+.b22{
+
+    background-color: rgb(255, 0, 0);
+    width: 250px;
+    height: 50px;
+
+}
+.b23{
+
+    background-color: rgb(0, 255, 255);
+    width: 250px;
+    height: 50px;
+
+}
+.b24{
+
+    background-color: rgb(0, 255, 4);
+    width: 250px;
+    height: 50px;
+
+}
+.b25{
+
+    background-color: rgb(255, 0, 0);
+    width: 250px;
+    height: 50px;
+
+}
+.b26{
+
+    background-color: rgb(221, 0, 255);
+    width: 250px;
+    height: 50px;
+
+}
+
+.b32{
+    background-color: rgb(170, 255, 0);
+    width: 50px;
+    height: 25px;
+}
+.b33{
+    background-color: rgb(38, 0, 255);
+    width: 50px;
+    height: 25px;
+}
+.b34{
+    background-color: rgb(255, 0, 247);
+    width: 50px;
+    height: 25px;
+}
+.b35{
+    background-color: rgb(255, 0, 0);
+    width: 50px;
+    height: 25px;
+}
+.b36{
+    background-color: rgb(157, 255, 0);
+    width: 50px;
+    height: 25px;
+}
+.b37{
+    background-color: rgb(72, 0, 255);
+    width: 50px;
+    height: 25px;
+}
+.b38{
+    background-color: rgb(0, 255, 251);
+    width: 50px;
+    height: 25px;
+}
+.b39{
+    background-color: rgb(0, 0, 0);
+    width: 50px;
+    height: 25px;
+}
+.b40{
+    background-color: rgb(255, 5, 163);
+    width: 50px;
+    height: 25px;
+}
+.b41{
+    background-color: rgb(255, 0, 0);
+    width: 50px;
+    height: 25px;
+}
